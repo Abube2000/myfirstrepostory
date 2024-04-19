@@ -1,0 +1,19 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    background: black;
+    padding: 1rem;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 150px;
+}
